@@ -1,3 +1,6 @@
-Sitemap: https://XN--G1ACF2A0CWA.XN--P1AI/sitemap.xml
 User-agent: *
 Allow: /
+Disallow: /h.htm
+Disallow: /z.htm
+Disallow: /f.htm
+Sitemap: https://XN--G1ACF2A0CWA.XN--P1AI/sitemap.xml
